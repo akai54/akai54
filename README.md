@@ -13,7 +13,7 @@
 - **Social Media:**
   - **Discord:** beshoux#1364
 - **Languages Spoken:**
-  - **Fluently:** French, English, Arabic
+  - **Fluently:** French, English
   - **Learning:** Turkish (notions)
 
 ## My Fields of Interest
