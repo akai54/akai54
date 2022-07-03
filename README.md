@@ -14,8 +14,7 @@
   - **Discord:** beshoux#1364
 - **Languages Spoken:**
   - **Fluently:** French, English
-  - **Learning:** Turkish (notions)
-
+  
 ## My Fields of Interest
 - Neovim
 - GNU/Linux
