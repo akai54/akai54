@@ -18,4 +18,7 @@
 ## My Fields of Interest
 - Neovim
 - GNU/Linux
+- FOSS
+- Digital Art
+- Game Development
 - Linguistics
