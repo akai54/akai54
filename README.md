@@ -6,14 +6,14 @@
 ## Who Am I?
 - **Name:** Besher AL ADDAM
 - **Aliases:** Akai54, Beshoux
-- **Location:** Paris, France
-- **Occupation:** 3rd year CS student
+- **Location:** Nantes, France
+- **Occupation:** Master 1 CS student
 - **Websites:**
   - **Main Website:** [beshoux](https://beshoux.neocities.org)
 - **Social Media:**
   - **Discord:** beshoux#1364
 - **Languages Spoken:**
-  - **Fluently:** French, English
+  - **Fluently:** Arabic, English, French
   
 ## My Fields of Interest
 - Neovim
@@ -22,3 +22,4 @@
 - Digital Art
 - Game Development
 - Linguistics
+- Cloud
