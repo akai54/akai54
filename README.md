@@ -13,7 +13,7 @@
 - **Social Media:**
   - **Discord:** beshoux#1364
 - **Languages Spoken:**
-  - **Fluently:** Arabic, English, French
+  - **Fluently:** English, French
   
 ## My Fields of Interest
 - Neovim
