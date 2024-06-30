@@ -16,6 +16,7 @@
   - **Fluently:** English, French
   
 ## My Fields of Interest
+- Web dev
 - Neovim
 - GNU/Linux
 - FOSS
