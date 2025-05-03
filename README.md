@@ -16,6 +16,7 @@
   - **Fluently:** English, French
   
 ## My Fields of Interest
+- Machine Learning
 - Web dev
 - Neovim
 - GNU/Linux
