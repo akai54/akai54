@@ -5,15 +5,9 @@
 
 ## Who Am I?
 - **Name:** Besher AL ADDAM
-- **Aliases:** Akai54, Beshoux
-- **Location:** Nantes, France
-- **Occupation:** Master 2 CS student
+- **Location:** France
 - **Websites:**
   - **Main Website:** [beshoux](https://beshoux.neocities.org)
-- **Social Media:**
-  - **Discord:** beshoux#1364
-- **Languages Spoken:**
-  - **Fluently:** English, French
   
 ## My Fields of Interest
 - Machine Learning
